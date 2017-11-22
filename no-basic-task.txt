@@ -2,4 +2,3 @@
 3 redirections
 1 setup enviroment
 4 manipulations
-2 basic terminal operations

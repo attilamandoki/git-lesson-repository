@@ -1,0 +1,5 @@
+1 setup enviroment
+2 basic terminal operations
+3 redirections
+4 manipulations
+5 In case of fire: commit, push, run
